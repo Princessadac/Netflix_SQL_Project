@@ -5,7 +5,7 @@
 ## 📌 Overview
 This project explores **Netflix's dataset** to analyze content distribution, trends, and growth opportunities using SQL queries. The analysis answers **13 key business questions** about Netflix's movies and TV shows.
 
-## 🛠 Tools Used
+## 🛠 Tool Used
 - **SQL Server:** PostgreSQL
 
 ## 🗂 Dataset
