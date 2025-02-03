@@ -11,6 +11,10 @@ This project explores **Netflix's dataset** to analyze content distribution, tre
 ## 🗂 Dataset
 The dataset consists of Netflix content, including attributes like **title, country, release year, genre, director, cast, rating, and description.**
 
+**Data Source**: Kaggle
+
+**Dataset Link**: [Netflix movies Dataset](https://github.com/Princessadac/Netflix_SQL_Project/blob/main/netflix_titles.csv)
+
 ## 📊 Schema
 ```sql
 CREATE TABLE Netflix
