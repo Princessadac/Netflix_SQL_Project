@@ -182,4 +182,5 @@ This project is part of my portfolio, showcasing SQL skills essential for data a
 ### 💡 Feel free to contribute, suggest improvements, or share your thoughts!
 
 **LinkedIn**: [Click here to connect with me Professionally](https://www.linkedin.com/in/princess-ada/)
+
 **Email**: [Click here to send a message](mailto:chukwuma.princess@outlook.com)
