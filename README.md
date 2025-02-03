@@ -13,7 +13,7 @@ The dataset consists of Netflix content, including attributes like **title, coun
 
 **Data Source**: Kaggle
 
-**Dataset Link**: [Netflix movies Dataset](https://github.com/Princessadac/Netflix_SQL_Project/blob/main/netflix_titles.csv)
+**Dataset Link**: [Netflix movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## 📊 Schema
 ```sql
