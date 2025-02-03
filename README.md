@@ -11,6 +11,25 @@ This project explores **Netflix's dataset** to analyze content distribution, tre
 ## 🗂 Dataset
 The dataset consists of Netflix content, including attributes like **title, country, release year, genre, director, cast, rating, and description.**
 
+## 📊 Schema
+```sql
+CREATE TABLE Netflix
+(
+    show_id VARCHAR(6),
+    type VARCHAR(10),
+    title VARCHAR(150),
+    director VARCHAR(208),
+    casts VARCHAR(1000),
+    country VARCHAR(150),
+    date_added VARCHAR(50),
+    release_year INT,
+    rating VARCHAR(10),
+    duration VARCHAR(15),
+    listed_in VARCHAR(100),
+    description VARCHAR(250)
+);
+```
+
 ## 🚀 13 Business Problems & SQL Queries
 
 ### 1️⃣ Which country has the highest number of movies and TV shows on Netflix?
