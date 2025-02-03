@@ -17,7 +17,7 @@ The dataset consists of Netflix content, including attributes like **title, coun
 
 ## 📊 Schema
 ```sql
-CREATE TABLE Netflix
+CREATE TABLE netflix
 (
     show_id VARCHAR(6),
     type VARCHAR(10),
